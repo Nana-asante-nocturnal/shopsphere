@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "shopshere",
-    "slug": "shopshere",
+    "name": "shopping-amazon",
+    "slug": "shopping-amazon",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,6 +11,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#023366"
     },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
